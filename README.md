@@ -10,7 +10,7 @@ While Ethereum Smart Contracts offer decentralized environments, they are not we
 
 To address these issues, the DRS (Distributed Resource Sharing System) is proposed. DRS is a container-based resource-sharing platform that leverages distributed resources to support not only high-performance computing but also web hosting and other services. This system facilitates efficient resource utilization without relying on cloud servers, and its container-based architecture enables easy deployment. Moreover, it offers potential cost savings compared to traditional cloud solutions.
 
-## Repository List  
+## 1. Repository List  
 | Repository           | Description                             | Public Status | Link |
 |:-------------------- |:--------------------------------------- |:------------: |:----:|
 | drs-setup-manager    | Simplifies the installation of the DRS Agent. | Private       | X    |
